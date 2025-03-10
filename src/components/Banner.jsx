@@ -3,7 +3,7 @@ import IconRatingHalf from "../assets/rating-half.png";
 import ImgTemp from "../assets/temp-1.jpeg";
 import IconPlay from "../assets/play-button.png";
 
-function Banner() {
+function Banner() { 
     return (
         <div className='w-full h-[800px] bg-banner bg-center bg-no-repeat bg-cover relative'>
             <div className="absolute w-full h-full top-0 left-0 bg-black opacity-40" />
